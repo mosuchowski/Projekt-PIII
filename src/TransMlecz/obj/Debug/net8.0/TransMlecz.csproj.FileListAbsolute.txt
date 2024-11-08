@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\bin\Debug\net8.0\TransMlecz.exe
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\bin\Debug\net8.0\TransMlecz.deps.json
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\bin\Debug\net8.0\TransMlecz.runtimeconfig.json
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\bin\Debug\net8.0\TransMlecz.dll
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\bin\Debug\net8.0\TransMlecz.pdb
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.AssemblyInfo.cs
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.dll
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\refint\TransMlecz.dll
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.pdb
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\TransMlecz.genruntimeconfig.cache
+C:\Users\student\Desktop\calete\TransMlecz\src\TransMlecz\obj\Debug\net8.0\ref\TransMlecz.dll
