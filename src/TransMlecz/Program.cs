@@ -1,13 +1,14 @@
 ﻿// GŁÓWNY PLIK .cs //
 //MENU GŁÓWNE
 int i = 0, j = 0;
+bool t = true;
 Console.Writeline("-------Witaj-------");
 Console.Writeline("Wybierz co chcesz zrobić");
 
 Console.Writeline("1 - Pracownicy");
 Console.Writeline("2 - Pojazdy");
 Console.WriteLine("3 - Zlecenia");
-while (1 > 0)
+while (t==true;)
 {
     cin >> i;
     switch (i)
@@ -36,8 +37,13 @@ while (1 > 0)
             cin >> j;
             //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
             break;
+        case 4: 
+            //ZAPISANIE ZMIAN, ZAKOŃCZENIE DZIAŁANIA PROGRAMU//
+            t=false;
+            break;
         default:
             Console.Writeline("Nieprawidłowa opcja " << i << ", spróbuj ponownie");
+            break;
 
 
 
