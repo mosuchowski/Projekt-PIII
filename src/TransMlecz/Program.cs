@@ -1,6 +1,6 @@
 ﻿// GŁÓWNY PLIK .cs //
 //MENU GŁÓWNE
-int string i = "0", j = "0" ;
+int i = 0, j = 0;
 bool t = true;
 Console.Writeline("-------Witaj-------");
 Console.Writeline("Wybierz co chcesz zrobić");
@@ -10,12 +10,15 @@ Console.Writeline("2 - Pojazdy");
 Console.WriteLine("3 - Zlecenia");
 while (t==true;)
 {
-    i = Console.ReadLine()
+    cin >> i;
     switch (i)
     {
         case 1:
-            Display.Komunikat1();
-            j = Console.ReadLine();
+            Console.Writeline("1 - Wyświetl");
+            Console.Writeline("2 - Dodaj");
+            Console.Writeline("3 - Usuń");
+            Console.Writeline("4 - Edytuj");
+            cin >> j;
             //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
             break;
         case 2:
@@ -23,7 +26,7 @@ while (t==true;)
             Console.Writeline("2 - Dodaj");
             Console.Writeline("3 - Usuń");
             Console.Writeline("4 - Edytuj");
-            j = Console.ReadLine();
+            cin >> j;
             //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
             break;
         case 3:
@@ -31,7 +34,7 @@ while (t==true;)
             Console.Writeline("2 - Dodaj");
             Console.Writeline("3 - Usuń");
             Console.Writeline("4 - Edytuj");
-            j = Console.ReadLine();
+            cin >> j;
             //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
             break;
         case 4: 
