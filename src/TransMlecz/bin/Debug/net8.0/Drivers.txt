@@ -1,0 +1,3 @@
+1,Jan,Kowalski,true,false
+2,Anna,Nowak,false,true
+3,Marek,Zieliñski,true,true

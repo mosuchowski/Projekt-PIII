@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Shared\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Shared\Functions\Functions.csproj" />
+  </ItemGroup>
+
 </Project>

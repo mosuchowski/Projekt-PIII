@@ -1,48 +1,48 @@
 ﻿// GŁÓWNY PLIK .cs //
 //MENU GŁÓWNE
-int i = 0, j = 0;
+using System.Collections.Generic;
+using Entities;
+using Functions;
+string i, j;
 bool t = true;
-Console.Writeline("-------Witaj-------");
-Console.Writeline("Wybierz co chcesz zrobić");
+DriverList localdriverlist = new DriverList(@"Drivers.txt");
+Console.WriteLine("-------Witaj-------");
+Console.WriteLine("Wybierz co chcesz zrobić");
 
-Console.Writeline("1 - Pracownicy");
-Console.Writeline("2 - Pojazdy");
+Console.WriteLine("1 - Pracownicy (wyświetl)");
+Console.WriteLine("2 - Pojazdy");
 Console.WriteLine("3 - Zlecenia");
-while (t==true;)
+Console.WriteLine("4 - Zakończ");
+while (t == true)
 {
-    cin >> i;
+    i = Console.ReadLine();
     switch (i)
     {
-        case 1:
-            Console.Writeline("1 - Wyświetl");
-            Console.Writeline("2 - Dodaj");
-            Console.Writeline("3 - Usuń");
-            Console.Writeline("4 - Edytuj");
-            cin >> j;
-            //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
-            break;
-        case 2:
-            Console.Writeline("1 - Wyświetl");
-            Console.Writeline("2 - Dodaj");
-            Console.Writeline("3 - Usuń");
-            Console.Writeline("4 - Edytuj");
-            cin >> j;
-            //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
-            break;
-        case 3:
-            Console.Writeline("1 - Wyświetl");
-            Console.Writeline("2 - Dodaj");
-            Console.Writeline("3 - Usuń");
-            Console.Writeline("4 - Edytuj");
-            cin >> j;
-            //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
-            break;
-        case 4: 
-            //ZAPISANIE ZMIAN, ZAKOŃCZENIE DZIAŁANIA PROGRAMU//
-            t=false;
+        case "1":
+            {
+                localdriverlist.ShowDrivers();
+                break;
+            }
+        case "2":
+            {
+                Messages.Message1();
+                //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
+                break;
+            }
+        case "3":
+            {
+                Messages.Message1();
+                //ODWOŁANIE DO ODPOWIEDNIEJ FUNKCJI//
+                break;
+            }
+        case "4":
+            {
+                //ZAPISANIE ZMIAN, ZAKOŃCZENIE DZIAŁANIA PROGRAMU//
+                t = false;
+            }
             break;
         default:
-            Console.Writeline("Nieprawidłowa opcja " << i << ", spróbuj ponownie");
+            Console.WriteLine("Nieprawidłowa opcja ", i, ", spróbuj ponownie");
             break;
 
 
@@ -51,5 +51,4 @@ while (t==true;)
 
     }
 }
-
 

@@ -7,9 +7,5 @@
         public string ModelName;
         public int ManufactureYear;
         public int Mileage;
-
-
-
-
     }
 }

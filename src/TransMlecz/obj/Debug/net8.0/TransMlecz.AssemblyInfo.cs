@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransMlecz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97ba9a970c6bd3e488360d0ff00cc8fc632aeb4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransMlecz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransMlecz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
