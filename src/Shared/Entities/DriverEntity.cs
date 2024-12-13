@@ -47,7 +47,7 @@ namespace Entities
         {
             foreach (Driver e in drivers)
             {
-                Console.WriteLine("chuj kurwa");
+                Console.WriteLine($"Id: {e.Id}, Name: {e.Name}, Surname: {e.Surname}, Certificate A: {e.CertificateA}, Certificate B: {e.CertificateB}");
             }
         }
     }
