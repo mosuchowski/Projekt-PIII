@@ -7,14 +7,15 @@ string i, j;
 bool t = true;
 DriverList localdriverlist = new DriverList(@"Drivers.txt");
 Console.WriteLine("-------Witaj-------");
-Console.WriteLine("Wybierz co chcesz zrobić");
 
-Console.WriteLine("1 - Pracownicy (wyświetl)");
-Console.WriteLine("2 - Pojazdy");
-Console.WriteLine("3 - Zlecenia");
-Console.WriteLine("4 - Zakończ");
 while (t == true)
 {
+    Console.WriteLine("Wybierz co chcesz zrobić");
+
+    Console.WriteLine("1 - Pracownicy (wyświetl)");
+    Console.WriteLine("2 - Pojazdy");
+    Console.WriteLine("3 - Zlecenia");
+    Console.WriteLine("4 - Zakończ");
     i = Console.ReadLine();
     switch (i)
     {
