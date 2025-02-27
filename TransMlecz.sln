@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransMlecz", "src\TransMlec
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{BCEF905C-0111-49C5-9501-810381D42481}"
 	ProjectSection(SolutionItems) = preProject
-		Drivers.txt = Drivers.txt
+		src\TransMlecz\bin\Debug\net8.0\Drivers.txt = src\TransMlecz\bin\Debug\net8.0\Drivers.txt
+		src\TransMlecz\bin\Debug\net8.0\Jobs.txt = src\TransMlecz\bin\Debug\net8.0\Jobs.txt
+		src\TransMlecz\bin\Debug\net8.0\Trucks.txt = src\TransMlecz\bin\Debug\net8.0\Trucks.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "src\Shared\Entities\Entities.csproj", "{CD792B26-3D9C-4F59-948D-D0A50DFCF122}"
