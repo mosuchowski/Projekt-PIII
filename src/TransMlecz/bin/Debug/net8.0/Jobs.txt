@@ -1,0 +1,5 @@
+1,Dostawa cementu,250,1,4,True,True,False,15000
+2,Transport stali,320,0,0,False,False,True,18000
+3,Dostawa sprzętu AGD,120,0,0,False,False,False,8000
+4,Przewóz paliwa,450,0,0,False,True,True,22000
+5,Transport kontenerów,500,0,0,False,False,False,25000
