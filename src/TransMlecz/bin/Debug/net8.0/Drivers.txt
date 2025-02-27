@@ -1,3 +1,5 @@
 1,Jan,Kowalski,true,false
 2,Anna,Nowak,false,true
-3,Marek,Zieli�ski,true,true
+3,Piotr,Wiśniewski,true,true
+4,Marek,Zieliński,false,false
+5,Katarzyna,Wójcik,true,false

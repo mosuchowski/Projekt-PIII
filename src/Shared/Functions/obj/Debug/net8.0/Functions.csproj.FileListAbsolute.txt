@@ -22,3 +22,14 @@ C:\Users\student\Desktop\projekt\Projekt-PIII\src\Shared\Functions\obj\Debug\net
 C:\Users\student\Desktop\projekt\Projekt-PIII\src\Shared\Functions\obj\Debug\net8.0\refint\Functions.dll
 C:\Users\student\Desktop\projekt\Projekt-PIII\src\Shared\Functions\obj\Debug\net8.0\Functions.pdb
 C:\Users\student\Desktop\projekt\Projekt-PIII\src\Shared\Functions\obj\Debug\net8.0\ref\Functions.dll
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\bin\Debug\net8.0\Functions.dll
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\bin\Debug\net8.0\Functions.pdb
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\Functions.dll
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\Functions.pdb
+C:\Users\Komputer\Desktop\Projekt\Projekt-PIII-main\src\Shared\Functions\obj\Debug\net8.0\ref\Functions.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\TransMlecz\\TransMlecz.csproj": {}
+    "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\TransMlecz\\TransMlecz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Entities\\Entities.csproj": {
+    "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Komputer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Komputer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Functions\\Functions.csproj": {
+    "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Functions\\Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Functions\\Functions.csproj",
+        "projectUniqueName": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Functions\\Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Functions\\Functions.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Functions\\obj\\",
+        "projectPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Functions\\Functions.csproj",
+        "packagesPath": "C:\\Users\\Komputer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Functions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Komputer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,7 +91,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -109,7 +108,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -130,24 +130,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\TransMlecz\\TransMlecz.csproj": {
+    "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\TransMlecz\\TransMlecz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\TransMlecz\\TransMlecz.csproj",
+        "projectUniqueName": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\TransMlecz\\TransMlecz.csproj",
         "projectName": "TransMlecz",
-        "projectPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\TransMlecz\\TransMlecz.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\TransMlecz\\obj\\",
+        "projectPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\TransMlecz\\TransMlecz.csproj",
+        "packagesPath": "C:\\Users\\Komputer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\TransMlecz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Komputer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -156,18 +156,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Entities\\Entities.csproj"
+              "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Functions\\Functions.csproj": {
-                "projectPath": "C:\\Users\\student\\Desktop\\projekt\\Projekt-PIII\\src\\Shared\\Functions\\Functions.csproj"
+              "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Functions\\Functions.csproj": {
+                "projectPath": "C:\\Users\\Komputer\\Desktop\\Projekt\\Projekt-PIII-main\\src\\Shared\\Functions\\Functions.csproj"
               }
             }
           }
@@ -181,7 +180,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -202,7 +202,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
